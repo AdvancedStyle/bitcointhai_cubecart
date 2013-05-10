@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<installer version="1.0">
+  <info>
+	<uid>gateway-bitcointhai@cubecart.com</uid>
+	<type>gateway</type>
+	<mobile_optimized>false</mobile_optimized>
+	<name><![CDATA[BitcoinThai]]></name>
+	<description><![CDATA[Bitcoin Thai - Bitcoin.in.th]]></description>
+	<version>1.0.0</version>
+	<minVersion>5.0.0a</minVersion>
+	<maxVersion>5.1.*</maxVersion>
+	<creator><![CDATA[Bitcoin.in.th]]></creator>
+	<homepage><![CDATA[http://bitcoin.in.th]]></homepage>
+	<block>false</block>
+  </info>
+</installer>

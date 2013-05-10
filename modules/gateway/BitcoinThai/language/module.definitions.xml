@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions version="1.0">
+ <group name="bitcointhai">
+  <string name="module_title"><![CDATA[Bitcoin]]></string>
+  <string name="api_id"><![CDATA[Merchant API ID]]></string>
+  <string name="api_key"><![CDATA[Merchant API Key]]></string>
+  <string name="api_tip"><![CDATA[Get your merchant API ID/Key from <a href="http://bitcoin.in.th/merchant-account/" target="_blank">http://bitcoin.in.th/merchant-account/</a>]]></string>
+  <string name="debugging"><![CDATA[Show debugging error messages]]></string>
+  <string name="debugging_off"><![CDATA[Hide Debugging Info]]></string>
+  <string name="debugging_on"><![CDATA[Show Debugging Info]]></string>
+ </group>
+</definitions>
