@@ -20,9 +20,9 @@
 			<div><label for="txnkey">{$LANG.bitcointhai.api_id}</label><span><input name="module[api_id]" id="api_id" class="textbox" type="text" value="{$MODULE.api_id}" /></span></div>
 			<div><label for="txnkey">{$LANG.bitcointhai.api_key}</label><span><input name="module[api_key]" id="api_key" class="textbox" type="text" value="{$MODULE.api_key}" /></span></div>
 			<div>
-				<label for="email">{$LANG.bitcointhai.debugging}</label>
+				<label for="debugging">{$LANG.bitcointhai.debugging}</label>
 					<span>
-						<select name="module[debugging]">
+						<select name="module[debugging]" id="debugging">
         					<option value="0" {$SELECT_debugging_0}>{$LANG.bitcointhai.debugging_off}</option>
         					<option value="1" {$SELECT_debugging_1}>{$LANG.bitcointhai.debugging_on}</option>
     					</select>
